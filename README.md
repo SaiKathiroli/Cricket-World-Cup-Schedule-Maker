@@ -17,8 +17,7 @@ Run the program with the desired parameters, specifying the number of teams invo
 Getting Started
 Follow these steps to use the Cricket World Cup Schedule Maker:
 
-Clone this repository to your local machine.
-git clone https://github.com/yourusername/Cricket-World-Cup-Schedule-Maker.git
+Clone this repository to your local machine and
 Compile the Java program.
 
 javac E1.java
